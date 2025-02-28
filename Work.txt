@@ -1,0 +1,36 @@
+Service Provider
+
+Login,
+Train and Test Drugs Data Sets, 
+View Drugs Trained and Tested Accuracy in Bar Chart, 
+View Drugs Trained and Tested Accuracy Results, 
+View Drug to Drug Interaction Predicted Details, 
+Find Drug to Drug Interaction Predicted Ratio, 
+Download Drug to Drug Interaction, 
+View Drug to Drug Interaction Predicted Ratio Results, 
+View All Remote Users.
+
+
+Remote User
+
+
+REGISTER AND LOGIN,
+PREDICT DRUG TO DRUG INTERACTION TYPE,
+VIEW YOUR PROFILE. 
+
+
+Members
+
+uniqueID,
+First_drugName,
+condition1,
+review,
+Second_drugName,
+condition2,
+Prediction.
+
+
+
+
+
+
